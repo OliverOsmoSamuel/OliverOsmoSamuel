@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OliverOsmoSamuel
+- 👀 I’m interested in Front End Web Development and Machine Learning
+- 🌱 I’m currently learning about Machine Learning with Python
+- 📫 How to reach me: oliver.janhunen@gmail.com
